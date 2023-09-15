@@ -13,7 +13,7 @@ permalink: /aboutMe
  : I am a huge sports person. I have played 8 sports over the years. The sport I stuck with is volleyball and I have been playing for almost 2 years now. I play for club and highschool.
     
     
-    <img src="images/Sports 1.jpg" width="50%" height="50%" />
+    <img src="./images/Sports 1.jpg" width="50%" height="50%" />
  - Working out
   : I work out 4-5 times a week for my sport. I mostly do plyometrics and cardio.
   - Food

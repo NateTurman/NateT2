@@ -8,10 +8,6 @@ title: Student Blog
 I am starting my coding Journey on 8/21/23
 
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-
 # Hello
 Today is 8/23/23 and that is the day my website opened.
 This website was made in a Computer Science class and it was a small challenge to make. I am glad that it it finally working.
