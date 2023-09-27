@@ -51,6 +51,7 @@ courses: {compsci: {week: 4} }
       <div class="calculator-number">9</div>
       <div class="calculator-operation">*</div>
       <div class="calculator-operation">/</div>
+      <div class="calculator-operation">^</div>
       <!--row 4-->
       <div class="calculator-clear">A/C</div>
       <div class="calculator-number">0</div>
@@ -135,7 +136,9 @@ courses: {compsci: {week: 4} }
           case "/":
               result = first / second;
               break;
-            case "
+          case "^":
+              result = Math.pow(first,second)
+              break;
           default: 
               break;
       }
